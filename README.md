@@ -1,1 +1,2 @@
-# APL_LAB_052
+#Nama : Andika Tumanggor
+#NIM  : 1908107010052
